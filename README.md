@@ -282,4 +282,6 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
     
     -- comando que apaga o banco de dados.
     -- drop database casaoliveira;
-  
+    
+#### Modelo Relacional de Banco de Dados
+!["Modelo Relacional de Banco de Dados"](ModeloRelacionalDeBancoDeDados.png)
